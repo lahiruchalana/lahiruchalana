@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-Stack+Web+Developer.+Let's+Enjoy+Coding.)](https://git.io/typing-svg)
 
 <p align="center">
-  <img width="306" src="https://github.com/lahiruchalana/lahiruchalana/blob/main/assets/lcIresh.png" />
+  <img width="356" src="https://github.com/lahiruchalana/lahiruchalana/blob/main/assets/lcIresh.png" />
 </p>  
 
-<h2 align="center">Hi there 👋, I'm Lahiru!</h2>
+<h2 align="center">Oh, Hi Fellow 👋, I'm Lahiru!</h2>
 
 <a href="https://www.facebook.com/lahiru.chalana.1">
     <img src="https://github.com/lahiruchalana/lahiruchalana/blob/main/assets/icons8-facebook-48.png"/>
@@ -18,12 +18,13 @@
     <img src="https://github.com/lahiruchalana/lahiruchalana/blob/main/assets/icons8-twitter-48.png"/>
 </a>
 
-- 🔭 I’m currently working on Spring Boot and React.JS related projects
+- 🔭 I’m currently working on Full-Stack Developments using Spring Boot and React.JS 
 - 🌱 I’m currently learning Spring Boot to be mastered
 
-<div align="center"> 
-    ![Github stats](https://github-readme-stats.vercel.app/api?username=lahiruchalana&theme=aura&show_icons=true&count_private=true) 
-</div>
+<div align="center"> </div>
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=lahiruchalana&theme=aura&show_icons=true&count_private=true) 
+
 
 ## What Have I Done?
 
