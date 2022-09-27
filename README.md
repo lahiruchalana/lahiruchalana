@@ -1,6 +1,12 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Spring Boot and React.JS related projects
+- 🌱 I’m currently learning Spring Boot to be mastered
+- 📫 How to reach me: ...
+
+
+// README.md
+![Github stats](https://github-readme-stats.vercel.app/api?username=lahiruchalana&theme=highcontrast&show_icons=true&count_private=true)
 
 
 <!--
