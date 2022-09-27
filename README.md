@@ -1,13 +1,15 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-Stack+Web+Developer.+Let's+Enjoy+Coding.)](https://git.io/typing-svg)
 
 <p align="center">
-  <img width="92" src="https://github.com/lahiruchalana/lahiruchalana/blob/main/assets/lcIresh.png" />
+  <img width="196" src="https://github.com/lahiruchalana/lahiruchalana/blob/main/assets/lcIresh.png" />
 </p>  
 <h2 align="center">Hi there 👋, I'm Lahiru!</h2>
 
 - 🔭 I’m currently working on Spring Boot and React.JS related projects
 - 🌱 I’m currently learning Spring Boot to be mastered
-- 📫 How to reach me: ...
+- 📫 How to reach me: <a href=""><img src="https://github.com/lahiruchalana/lahiruchalana/blob/main/assets/icons8-facebook-48.png"/></a>
+<a href=""><img src="https://github.com/lahiruchalana/lahiruchalana/blob/main/assets/icons8-linkedin-circled-48.png"/></a>
+<a href=""><img src="https://github.com/lahiruchalana/lahiruchalana/blob/main/assets/icons8-twitter-48.png"/></a>
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=lahiruchalana&theme=aura&show_icons=true&count_private=true) 
