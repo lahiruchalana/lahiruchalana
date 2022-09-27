@@ -19,7 +19,7 @@
 </a>
 
 <a href="https://stackoverflow.com/users/14357147/lahiru-chalana">
-    <img src="https://github.com/lahiruchalana/lahiruchalana/blob/main/assets/icons8-stack-overflow,-web-portal-for-professional-and-enthusiast-programmers.-48.png"/>
+    <img src="https://github.com/lahiruchalana/lahiruchalana/blob/main/assets/icons8-stack-overflow,-web-portal-for-professional-and-enthusiast-programmers.-48-modified.png"/>
 </a>
 
 - 🔭 I’m currently working on Full-Stack Developments using Spring Boot and React.JS 
