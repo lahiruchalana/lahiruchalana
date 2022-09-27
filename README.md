@@ -18,6 +18,10 @@
     <img src="https://github.com/lahiruchalana/lahiruchalana/blob/main/assets/icons8-twitter-48.png"/>
 </a>
 
+<a href="https://stackoverflow.com/users/14357147/lahiru-chalana">
+    <img src="https://github.com/lahiruchalana/lahiruchalana/blob/main/assets/icons8-stack-overflow,-web-portal-for-professional-and-enthusiast-programmers.-48.png"/>
+</a>
+
 - 🔭 I’m currently working on Full-Stack Developments using Spring Boot and React.JS 
 - 🌱 I’m currently learning Spring Boot to be mastered
 
@@ -37,7 +41,7 @@
 
 .......
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=lahiruchalana&theme=dark)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=lahiruchalana&theme=dark&layout=compact)
 
 
 <!--
