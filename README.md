@@ -1,15 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Full-stack+web+and+app+developer.++++++++++)](https://git.io/typing-svg)
 
-
-### Hi there 👋
-
 <p align="center">
   <img width="92" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/mkdir.png" />
 </p>  
-<h2 align="center">Hi there 👋, I'm Shin!</h2>
-
-
-<a href="https://blog.codewithshin.com/" target="blank">Blog: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="Medium" height="30" width="40" /></a> <a href="https://twitter.com/shinokada" target="blank">Twitter: <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Medium" height="30" width="40" /></a>
+<h2 align="center">Hi there 👋, I'm Lahiru!</h2>
 
 - 🔭 I’m currently working on Spring Boot and React.JS related projects
 - 🌱 I’m currently learning Spring Boot to be mastered
@@ -17,7 +11,8 @@
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=lahiruchalana&theme=aura&show_icons=true&count_private=true) 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=lahiruchalana)
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=lahiruchalana&theme=dark)
 
 
 <!--
