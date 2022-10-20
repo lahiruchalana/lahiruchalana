@@ -41,6 +41,9 @@
 
 .......
 
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="lahiru-chalana-622749155" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lk.linkedin.com/in/lahiru-chalana-622749155?trk=profile-badge">Lahiru Chalana</a></div>
+              
+
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=lahiruchalana&theme=dark&layout=compact)
 
 
