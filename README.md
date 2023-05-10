@@ -4,7 +4,7 @@
   <img width="356" src="https://github.com/lahiruchalana/lahiruchalana/blob/main/assets/lcIresh.png" />
 </p>  
 
-<h2 align="center">Oh, Hi Fellow 👋, I'm Lahiru!</h2>
+<h2 align="center">Hi Fellow 👋, I'm Lahiru!</h2>
 
 <a href="https://www.facebook.com/lahiru.chalana.1">
     <img src="https://github.com/lahiruchalana/lahiruchalana/blob/main/assets/icons8-facebook-48.png"/>
