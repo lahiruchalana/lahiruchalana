@@ -75,7 +75,7 @@
 
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="lahiru-chalana-622749155" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://lk.linkedin.com/in/lahiru-chalana-622749155?trk=profile-badge">Lahiru Chalana</a></div>
 
-<a href="https://www.buymeacoffee.com/write_here_the_name" target="_blank" rel="noreferrer nofollow">
+<a href="https://www.buymeacoffee.com/lahiruchalana" target="_blank" rel="noreferrer nofollow">
     <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
 </a>
               
